@@ -1,3 +1,4 @@
 # demo
-this is my first git repository
-Author:chadalavada joyley
+this is my first git repository.
+<br>
+Author-chadalavada joyley
